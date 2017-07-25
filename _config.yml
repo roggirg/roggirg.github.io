@@ -1,6 +1,6 @@
 # main text of home
 name: Roger Girgis
-bio: Interested in the development and application of learning algorithms.
+bio: 'Interested in the development and application of learning algorithms.'
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/roger.jpg
+picture: 'assets/images/roger.jpg'
 
 # If you want to include your resume, set to true
 # and specify source (external or local).

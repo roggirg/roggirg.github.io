@@ -1,6 +1,6 @@
 # main text of home
 name: Roger Girgis
-bio: Interested in developing and applying learning algorithms to solve real-world problems
+bio: Interested in the development and application of learning algorithms.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -39,24 +39,24 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: roger-girgis-a46b959b
 # youtube: myyoutube
 # spotify: myspotify
-github: github.com/roggirg
+github: roggirg
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 email: rogerg@cim.mcgill.ca
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Roger Girgis
+        bio: nterested in the development and application of learning algorithms.
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/roger.jpg
         twitter: johndoe
     jamesfoster:
         name: James Foster

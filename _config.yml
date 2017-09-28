@@ -8,13 +8,13 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: 'assets/images/roger.jpg'
+picture: assets/images/roger.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: assets/roger-girgis-resume.pdf
 
 url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
@@ -78,8 +78,8 @@ width: large
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
-blog: true
+# about: true
+# blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
